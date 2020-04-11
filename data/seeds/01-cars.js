@@ -22,7 +22,8 @@ exports.seed = function(knex) {
           VIN: "1GNDT13S722246554",
           make: "Ford",
           model: "Focus",
-          mileage: 124000
+          mileage: 124000,
+          title_type: "Clean"
         }
       ]);
     });
